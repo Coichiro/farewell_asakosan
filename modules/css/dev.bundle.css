@@ -1,0 +1,43 @@
+/*!****************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??clonedRuleSet-7.use[1]!./node_modules/postcss-loader/dist/cjs.js??clonedRuleSet-7.use[2]!./node_modules/sass-loader/dist/cjs.js??clonedRuleSet-7.use[3]!./sass/style.sass ***!
+  \****************************************************************************************************************************************************************************************************************************/
+/* layout */
+/*---------------------------------------*/
+/* color */
+/*---------------------------------------*/
+/* font
+ * @src https://fonts.google.com/ */
+/*---------------------------------------*/
+html, body {
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
+  background: #212121;
+  height: 100vh;
+}
+
+.container {
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.text {
+  font-weight: 100;
+  font-size: 28px;
+  color: #FAFAFA;
+}
+
+.dud {
+  color: #757575;
+}
+
+.sign {
+  position: absolute;
+  bottom: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #757575;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibW9kdWxlcy9jc3MvZGV2LmJ1bmRsZS5jc3MiLCJtYXBwaW5ncyI6Ijs7O0FBQUE7QUFFQTtBQUlBO0FBRUE7QUFTQTttQ0FBQTtBQUdBO0FDaEJBO0VBQ0U7RUFDQTtFQUNBO0FBSUY7O0FBSEE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0FBTUY7O0FBTEE7RUFDRTtFQUNBO0VBQ0E7QUFRRjs7QUFQQTtFQUNFO0FBVUY7O0FBUkE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0FBV0YsQyIsInNvdXJjZXMiOlsid2VicGFjazovL3dlYnBhY2tfZm9yX3N0YXRpYy8uL3Nhc3MvYWRkaXRpb25hbHMvX3NldHRpbmcuc2FzcyIsIndlYnBhY2s6Ly93ZWJwYWNrX2Zvcl9zdGF0aWMvLi9zYXNzL3N0eWxlLnNhc3MiXSwic291cmNlc0NvbnRlbnQiOlsiLypcbiAgbGF5b3V0XG4vKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSovXG4kbWc6IDYwcHhcbiRndXR0ZXI6IDE1cHhcblxuLypcbiAgY29sb3Jcbi8qLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tKi9cbiRibGFjazogIzAwMFxuJHdoaXRlOiAjZmZmXG4kZm9udDogIzY2NlxuJHByaW1hcnk6ICMzYjc4YWRcbiRzZWNvbmRhcnk6ICRmb250XG4kZ3JheTogI2VjZWZmMVxuXG5cbi8qXG4gIGZvbnRcbiAgQHNyYyBodHRwczovL2ZvbnRzLmdvb2dsZS5jb20vXG4vKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSovXG4kZm9udC1mYW1pbHk6IFwiSGVsdmV0aWNhIE5ldWVcIiwgQXJpYWwsIFwiSGlyYWdpbm8gS2FrdSBHb3RoaWMgUHJvTlwiLCBcIkhpcmFnaW5vIFNhbnNcIiwgTWVpcnlvLCBzYW5zLXNlcmlmXG5cbiIsIlxuICAgICAgICAgICAgQGltcG9ydCBcIi92YXIvd3d3L3NyYy9zYXNzL2FkZGl0aW9uYWxzL19zZXR0aW5nLnNhc3NcIlxuICAgICAgICAgICAgQGltcG9ydCBcIi92YXIvd3d3L3NyYy9zYXNzL2FkZGl0aW9uYWxzL19icmVha3BvaW50cy5zYXNzXCJcbiAgICAgICAgICBcbmh0bWwsIGJvZHlcbiAgZm9udC1mYW1pbHk6IFwiSGVsdmV0aWNhIE5ldWVcIiwgQXJpYWwsIFwiSGlyYWdpbm8gS2FrdSBHb3RoaWMgUHJvTlwiLCBcIkhpcmFnaW5vIFNhbnNcIiwgTWVpcnlvLCBzYW5zLXNlcmlmXG4gIGJhY2tncm91bmQ6ICMyMTIxMjFcbiAgaGVpZ2h0OiAxMDB2aFxuLmNvbnRhaW5lclxuICBoZWlnaHQ6IDEwMHZoXG4gIHdpZHRoOiAxMDAlXG4gIGp1c3RpZnktY29udGVudDogY2VudGVyXG4gIGFsaWduLWl0ZW1zOiBjZW50ZXJcbiAgZGlzcGxheTogZmxleFxuLnRleHRcbiAgZm9udC13ZWlnaHQ6IDEwMFxuICBmb250LXNpemU6IDI4cHhcbiAgY29sb3I6ICNGQUZBRkFcbi5kdWRcbiAgY29sb3I6ICM3NTc1NzVcblxuLnNpZ25cbiAgcG9zaXRpb246IGFic29sdXRlXG4gIGJvdHRvbTogNTBweFxuICBsZWZ0OiA1MCVcbiAgdHJhbnNmb3JtOiB0cmFuc2xhdGVYKC01MCUpXG4gIGNvbG9yOiAjNzU3NTc1XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=*/
